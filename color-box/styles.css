@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+.box {
+   width:80px;
+   height: 40px;
+   border: 1px solid black;
+   color: black;
+   background-color: cadetblue;
+   margin: 15px;
+   padding: 15px;;
+
+}
+.center{
+    margin-left: 500px;
+}
+.button-center{
+    margin-left: 425px;
+}
+button{
+    background-color: #e7e7e7;
+    margin: 15px;
+    padding:15px;
+}
